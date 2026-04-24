@@ -279,6 +279,8 @@ DevSecOps is the philosophy of integrating security practices within the DevOps 
   - Admission controller
   - Dashboard
 
+- [KubeStellar Console](https://console.kubestellar.io) - Open source AI-powered multi-cluster Kubernetes dashboard with compliance dashboards for Falco, OPA/Gatekeeper, and Kyverno. Real-time security observability. CNCF Sandbox project.
+
 ### Runtime Security
 
 - [Falco](https://falco.org/) - Runtime security
