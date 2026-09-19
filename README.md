@@ -119,6 +119,12 @@ DevSecOps is the philosophy of integrating security practices within the DevOps 
   - Security plugin available
   - Maven/Gradle integration
 
+- [CodeFence](https://codefence-dev.github.io/codefence/) - Offline pre-commit scanner for AI-written code
+  - Python and JavaScript
+  - 30 rules mapped to 29 CWE IDs
+  - Zero dependencies, fully offline scans
+  - Free tier includes all rules
+
 ### Software Composition Analysis (SCA)
 
 - [Snyk Open Source](https://snyk.io/product/open-source-security-management/) - Dependency scanning
