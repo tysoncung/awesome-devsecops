@@ -164,6 +164,7 @@ DevSecOps is the philosophy of integrating security practices within the DevOps 
   - CI/CD integration
 
 - [detect-secrets](https://github.com/Yelp/detect-secrets) - Prevent secrets in code
+- [KeyDrift](https://keydrift.dev) - Scans deployed HTML and JavaScript for exposed secrets while recognizing public browser credentials that should not be treated as leaks.
   - Baseline secrets
   - Pre-commit hooks
   - Low false positives
