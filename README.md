@@ -195,6 +195,11 @@ DevSecOps is the philosophy of integrating security practices within the DevOps 
   - Low false positives
   - Issue management
 
+- [Dark-Moon](https://github.com/ASCIT31/Dark-Moon) - Open-source (GPLv3) autonomous AI penetration-testing CLI
+  - Runs DAST in CI via a GitHub Action and a GitLab CI/CD component
+  - 50 specialist agents, 140+ offensive tools over MCP
+  - Runs on a local (Ollama/llama.cpp) or cloud LLM
+
 ### API Security Testing
 
 - [OWASP API Security Top 10](https://owasp.org/www-project-api-security/) - API security risks
