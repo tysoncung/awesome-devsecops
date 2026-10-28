@@ -168,6 +168,11 @@ DevSecOps is the philosophy of integrating security practices within the DevOps 
   - Pre-commit hooks
   - Low false positives
 
+- [Crenox](https://github.com/crenoxhq/crenox) - Zero-dependency Git secret scanner
+  - Aho-Corasick pattern matching and Shannon entropy analysis
+  - Native pre-commit hook and SARIF reporting for CI/CD
+  - Statically compiled in Go with zero runtime dependencies
+
 ## Security Testing
 
 ### Dynamic Application Security Testing (DAST)
