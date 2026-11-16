@@ -489,6 +489,7 @@ DevSecOps is the philosophy of integrating security practices within the DevOps 
 - [Faraday](https://github.com/infobyte/faraday) - Collaborative penetration test platform
 - [ArcherySec](https://github.com/archerysec/archerysec) - Vulnerability assessment and management
 - [OpenVAS](https://www.openvas.org/) - Vulnerability scanner
+- [Openness](https://github.com/s4e-io/openness) - Open source agentless credentialed vulnerability scanner for Linux and Windows servers.
 
 ## Security Champions Programs
 
